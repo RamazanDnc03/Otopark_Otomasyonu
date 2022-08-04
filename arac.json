@@ -1,0 +1,39 @@
+[
+  {
+    "Id": 11,
+    "plaka": "12WE12",
+    "AracTipi": 2,
+    "sahibId": 2
+  },
+  {
+    "Id": 12,
+    "plaka": "11EE11",
+    "AracTipi": 1,
+    "sahibId": 8
+  },
+  {
+    "Id": 13,
+    "plaka": "45RT45",
+    "AracTipi": 4,
+    "sahibId": 9
+  },
+  {
+    "Id": 14,
+    "plaka": "20ASD12",
+    "AracTipi": 3,
+    "sahibId": 10
+  },
+  {
+    "Id": 15,
+    "plaka": "54TY21",
+    "AracTipi": 1,
+    "sahibId": 1
+  },
+  {
+    "Id": 16,
+    "plaka": "22WW22",
+    "AracTipi": 2,
+    "sahibId": 1
+  }
+
+]
